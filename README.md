@@ -19,7 +19,7 @@ You can access the exfiltration script [here](). <br>
 - Ubuntu Linux Server
 - Microsoft Defender for Endpoint
 - Azure Blob Storage 
-- KQL
+- Kusto Query Language (KQL)
 
 ## Executive Summary
 
