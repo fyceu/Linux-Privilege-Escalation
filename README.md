@@ -4,9 +4,8 @@
 
 
 You can read the full investigation walkthrough [here](). <br>
-You can read the investigation report [here](). <br>
+You can read the Investigation Report sent to leadership [here](). <br>
 You can access the exfiltration script [here](). <br>
-
 
 ## Tech Stack
 <img width="50" height="50" alt="azure" src="https://github.com/user-attachments/assets/fd2866b6-d2fa-4e61-bf55-0b20d63fca5e" />
