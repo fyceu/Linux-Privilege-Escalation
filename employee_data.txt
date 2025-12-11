@@ -1,0 +1,54 @@
+==================== EMPLOYEE CONFIDENTIAL PII RECORDS ====================
+
+EmployeeID: 492731
+Name: Jordan M. Carter
+SSN: 593-27-1849
+Date of Birth: 1989-04-12
+Phone: (804) 555-2934
+Email: jordan.carter@northmarkcorp.internal
+Home Address: 1428 Willow Bend Dr, Richmond, VA 23223
+Annual Salary: $94,500
+Emergency Contact: Melissa Carter – (804) 555-8821
+
+EmployeeID: 583024
+Name: Sara L. Nguyen
+SSN: 712-94-6652
+Date of Birth: 1992-11-08
+Phone: (434) 555-1174
+Email: sara.nguyen@northmarkcorp.internal
+Home Address: 68 Crestview Ln, Charlottesville, VA 22901
+Annual Salary: $82,300
+Emergency Contact: Daniel Nguyen – (434) 555-9920
+
+EmployeeID: 602918
+Name: Marcus T. Ellison
+SSN: 418-55-9034
+Date of Birth: 1984-02-27
+Phone: (703) 555-7622
+Email: marcus.ellison@northmarkcorp.internal
+Home Address: 9137 Forest Hill Trail, Alexandria, VA 22310
+Annual Salary: $108,750
+Emergency Contact: Patricia Ellison – (703) 555-1189
+
+EmployeeID: 761203
+Name: Priya K. Shah
+SSN: 229-83-4472
+Date of Birth: 1995-07-18
+Phone: (540) 555-4481
+Email: priya.shah@northmarkcorp.internal
+Home Address: 503 Meadowridge Ct, Roanoke, VA 24012
+Annual Salary: $76,000
+Emergency Contact: Rahul Shah – (540) 555-7715
+
+EmployeeID: 842991
+Name: Daniel R. Thompson
+SSN: 361-72-5594
+Date of Birth: 1987-09-03
+Phone: (757) 555-6632
+Email: daniel.thompson@northmarkcorp.internal
+Home Address: 214 Bay Harbor Cir, Norfolk, VA 23505
+Annual Salary: $89,200
+Emergency Contact: Rebecca Thompson – (757) 555-3309
+
+================ DO NOT DISTRIBUTE — CONFIDENTIAL HR EXPORT =================
+
