@@ -7,6 +7,10 @@ You can read the full investigation walkthrough [here](). <br>
 You can read the Investigation Report sent to leadership [here](). <br>
 You can access the exfiltration script [here](). <br>
 
+<p align="center">
+   <img width="1000" height="450" alt="insider threat" src="https://github.com/user-attachments/assets/03dea144-06a3-4907-b532-4ac4c791e367">
+</p>
+
 ## Tech Stack
 <img width="50" height="50" alt="azure" src="https://github.com/user-attachments/assets/fd2866b6-d2fa-4e61-bf55-0b20d63fca5e" />
 <img width="50" height="50" alt="ubuntu logo" src="https://github.com/user-attachments/assets/277aafa4-bf60-49dc-9d59-edfed17d17d3" />
