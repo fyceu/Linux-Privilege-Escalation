@@ -7,10 +7,6 @@ You can read the full investigation walkthrough [here](). <br>
 You can read the Investigation Report sent to leadership [here](). <br>
 You can access the exfiltration script [here](). <br>
 
-<p align="center">
-   <img width="850" height="400" alt="insider threat" src="https://github.com/user-attachments/assets/03dea144-06a3-4907-b532-4ac4c791e367">
-</p>
-
 ## Tech Stack
 <img width="50" height="50" alt="azure" src="https://github.com/user-attachments/assets/fd2866b6-d2fa-4e61-bf55-0b20d63fca5e" />
 <img width="50" height="50" alt="ubuntu logo" src="https://github.com/user-attachments/assets/277aafa4-bf60-49dc-9d59-edfed17d17d3" />
@@ -25,8 +21,17 @@ You can access the exfiltration script [here](). <br>
 - Kusto Query Language (KQL)
 
 ## Executive Summary
+During this investigation, security logs confirmed that sensitive employee data was staged on a Linux workstation and later exfiltrated to an external Azure storage account. The activity originated from the account of an employee who had a documented history of leaving their workstation unlocked and unattended, raising concerns of intentional misuse or unauthorized access by another employee.
 
-To get a full understanding of these findings, you can read the full investigation walkthrough [here](). 
+Further analysis showed that a hidden directory, hidden files, and custom scripts were created and executed to escalate privileges, prepare data for exfiltration, and remove evidence. Based on the collected events, this incident is assessed as a potential insider threat.
+
+To get a full understanding of these findings, you can read the full investigation walkthrough [here](). <br>
+A full Investigation Report for this incident was sent to Lead Security and Executives, which you can access [here]()
+
+<p align="center">
+   <img width="850" height="400" alt="insider threat" src="https://github.com/user-attachments/assets/03dea144-06a3-4907-b532-4ac4c791e367">
+</p>
+
 ## Recommendations
 **Disable Unauthorized Accounts**
 - Immediately remove the unauthorized `guest` account
