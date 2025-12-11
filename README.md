@@ -8,7 +8,7 @@ You can read the Investigation Report sent to leadership [here](). <br>
 You can access the exfiltration script [here](). <br>
 
 <p align="center">
-   <img width="1000" height="450" alt="insider threat" src="https://github.com/user-attachments/assets/03dea144-06a3-4907-b532-4ac4c791e367">
+   <img width="850" height="400" alt="insider threat" src="https://github.com/user-attachments/assets/03dea144-06a3-4907-b532-4ac4c791e367">
 </p>
 
 ## Tech Stack
